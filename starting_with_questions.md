@@ -59,7 +59,7 @@ The top countries by revenue are:
 ```
 ##### Answer  
 
-| **Country**   | ** Average Products Ordered** |
+| **City**   | ** Average Products Ordered** |
 |---------------|-------------------------------|
 | Madrid        | 10                            |
 | Salem         | 8                             |
